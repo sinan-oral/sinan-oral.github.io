@@ -1,6 +1,6 @@
 title: Sinan Oral
 url: "https://sinan-oral.github.io"
-baseurl: "/sinano"
+baseurl: "/sinano/"
 
 markdown: kramdown
 
