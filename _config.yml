@@ -1,6 +1,6 @@
 title: Sinan Oral
 url: "https://sinan-oral.github.io"
-baseurl: ""
+baseurl: "/"
 remote_theme: ankitsultana/researcher@gem
 markdown: kramdown
 
@@ -16,7 +16,7 @@ sass:
 
 nav:
  - name: "About"
-   link: ""
+   link: "/"
  - name: "Resume"
    link: "resume.pdf"
  - name: "Contact"
