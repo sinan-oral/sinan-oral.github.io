@@ -1,9 +1,8 @@
 title: Sinan Oral
 url: "https://sinanoral.com"
-baseurl: "/sinano"
+baseurl: "/"
 
 markdown: kramdown
-#ins_logo: "./bits-logo.png"
 
 tracking_id: #
 
