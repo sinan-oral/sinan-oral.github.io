@@ -1,7 +1,7 @@
 title: Sinan Oral
 url: "https://sinan-oral.github.io"
 baseurl: "/sinano/"
-
+remote_theme: ankitsultana/researcher@gem
 markdown: kramdown
 
 tracking_id: #
